@@ -2,7 +2,27 @@
   margin-top: 10px;
 }
 
+h1{
+	font-size: 100px;
+}
+
 .box {
   border: 1px solid black;
   height: 150px;
+  font-size: 100px;
+  font-style: bold;
+  text-align: center;
+  color:white;
+}
+
+#resetBtn{
+	text-align: center;
+}
+
+.X{
+	font-size: 100px;
+}
+
+.O{
+	font-size: 100px;
 }
